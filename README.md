@@ -6,7 +6,7 @@ This project is designed to presented in about 1.5 hours to students at the high
 
 ## Prerequisites
 Terraform. Tested with V1.0.11. Requires AWS CLI for AWS provider.
-Slides created with google suite.
+Slides created with google suite. See deck folder.
 
 ## AWS Setup
 This 
